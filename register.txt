@@ -1,0 +1,1 @@
+{"authtoken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNmE5YzYyMzlmYjk5MGMwNzY2ZjNjNjc0In0sImlhdCI6MTc4ODYzMzY1N30.TKU-LLn_9HHXIXcstE-c0soGEd3SeaKNZzm3XMxdUmI","email":"testuser2@example.com"}
